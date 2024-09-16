@@ -1,4 +1,9 @@
-## Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliandieskau&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliandieskau&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliandieskau&theme=tokyonight) 
+
+Cards created with [github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/demo.html).
+Idea stolen from [TornaxO7](https://github.com/TornaxO7) :D
 
 <!--
 **juliandieskau/juliandieskau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
